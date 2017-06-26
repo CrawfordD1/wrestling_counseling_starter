@@ -27,7 +27,7 @@ INSERT INTO counselors (first_name, nick_name, last_name, telephone, email, memb
                	('Andre', 'The Giant', '', '606 443-4567', 'bobo@ifpwafcad.com', '2001-01-12'),
                	('The', '', 'Undertaker', '555 555-4432', 'undertaker@ifpwafcad.com', '2005-03-08'),
                	('Randy', 'Macho Man', 'Savage', '555 317-4444', 'machoman@hotmail.com', '2000-11-10'),
-               	('Steve', 'Stone Cold', 'Austen','334 612-5678', 'stonecold@ifpwafcad.com', '1996-01-01'),
+               	('Steve', 'Stone Cold', 'Austin','334 612-5678', 'stonecold@ifpwafcad.com', '1996-01-01'),
                	('Bret', 'The Hitman', 'Hart', '412 565-5656', 'hitman@ifpwafcad.com', date('now')),
                	('Cactus', '', 'Jack', '553 499-8162', 'cactus_jack@ifpwafcad.com', '1999-12-03'),
                	('Dwayne', 'The Rock', 'Johnson', '617 889-5545', 'rock@ifpwafcad.com', '1998-05-07'),
